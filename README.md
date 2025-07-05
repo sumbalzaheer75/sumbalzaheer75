@@ -15,7 +15,7 @@
 ---
 
 📈 **Projects Highlights**
-- 🧠 *Educational Data Analysis (EDA)* – Insights into regional college performance across Pakistan  
+- 🧠 *Exploratory Data Analysis (EDA)* – Insights into regional college performance across Pakistan  
 - 🎮 *PS4 Game Sales Analysis* – Trends and visualization of global game sales  
 - 🛍️ *Customer Sales Dashboard* – Interactive report of shopping data using Power BI  
 - 🛒 *Flipkart Product Scraper* – Automated product data extraction (title, price, rating) using Selenium and Python
